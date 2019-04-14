@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+#output-land {
+  font-size: 100px;
+  color: brown;
+}
+#output-sea {
+  font-size: 100px;
+  color: blue;
+}
+#no-data {
+  font-size: 30px;
+  color: black;
+}
