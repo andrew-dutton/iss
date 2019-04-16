@@ -34,7 +34,7 @@ class LandOrSea extends React.Component {
               isLoaded: true,
               sea: "",
               name: "",
-              noData: "Position Unavailable"
+              noData: "Above International Waters"
           })
         } else if (!!result.results[0].components.country) {
             this.setState({
